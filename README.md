@@ -7,7 +7,7 @@
 [![Institution](https://img.shields.io/badge/EAM-2026--II-blue.svg)](https://eam.edu.co/)
 
 > **Proyecto Final · Automatización Inteligente de Procesos con n8n**  
-> **Institución Universitaria EAM** — Facultad de Ingeniería / Ciencias Administrativas  
+> **Institución Universitaria EAM** — Facultad de Ingeniería 
 > **Docente:** Robert Garcia Rey  
 > **Periodo:** 2026-II  
 
